@@ -26,7 +26,7 @@
 
         right_del {
             bindings = <&kp DELETE>;
-            key-positions = <66 59>;
+            key-positions = <59 65>;
         };
     };
 
